@@ -12,7 +12,7 @@
 
 ---
 
-### 💜 Sobre mim
+### Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
 - 💻 Fazendo freelance em **Front-end** e **Back-end**
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 Estatísticas (atualizam sozinhas)
+### Estatísticas 
 
 <div align="center">
 
