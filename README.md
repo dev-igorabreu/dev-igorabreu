@@ -2,7 +2,7 @@
 
 # 👋 Salve, eu sou o Igor
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Front-end+em+constru%C3%A7%C3%A3o;Focado+em+BI+e+dados;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Front-end+em+constru%C3%A7%C3%A3o;Focado+em+WEB+,BI+e+dados;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 </div>
 
