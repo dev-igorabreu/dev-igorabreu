@@ -57,33 +57,9 @@ Ainda não tenho projetos publicados no GitHub — estão em construção. Assim
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-igorabreu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-igorabreu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-igorabreu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-igorabreu&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dev-igorabreu&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dev-igorabreu&label=Repos&query=$.public_repos&color=A78BFA&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/dev-igorabreu?style=for-the-badge&color=A78BFA&label=Followers)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=dev-igorabreu%26format=json&label=Profile%20Views&query=$.count&color=A78BFA&style=for-the-badge)
 
 </div>
 
