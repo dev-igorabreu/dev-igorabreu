@@ -57,7 +57,7 @@ Ainda não tenho projetos publicados no GitHub — estão em construção. Assim
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-igorabreu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-igorabreu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-igorabreu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
