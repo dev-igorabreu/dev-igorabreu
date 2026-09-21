@@ -59,10 +59,8 @@ Ainda não tenho projetos publicados no GitHub — estão em construção. Assim
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dev-igorabreu&label=Repos&query=$.public_repos&color=A78BFA&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/dev-igorabreu?style=for-the-badge&color=A78BFA&label=Followers)
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=dev-igorabreu%26format=json&label=Profile%20Views&query=$.count&color=A78BFA&style=for-the-badge)
 
 </div>
-
 <br>
 
 ## 🐍 Contribution Snake
